@@ -1,0 +1,6 @@
+{
+  "name": "Receipt Ledger Sync",
+  "description": "Upload and process receipts using Gemini AI, and sync the structured ledger database directly to Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
